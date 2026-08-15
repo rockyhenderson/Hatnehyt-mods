@@ -1,0 +1,10 @@
+Replace this placeholder by either:
+
+1. Putting your .jar file in public/downloads and changing downloadUrl in
+   src/data/mods.js to:
+   "./downloads/your-mod-file.jar"
+
+OR
+
+2. Uploading the .jar to a GitHub Release and changing downloadUrl to the
+   direct GitHub Release asset URL.
